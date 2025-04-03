@@ -1,2 +1,2 @@
-# Singleton
-LLD Singleton Design Pattern examples
+# Design Patterns
+LLD Design Pattern examples
