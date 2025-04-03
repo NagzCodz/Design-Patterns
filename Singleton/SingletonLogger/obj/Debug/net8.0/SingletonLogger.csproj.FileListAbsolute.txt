@@ -1,0 +1,15 @@
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\obj\Debug\net8.0\SingletonLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\obj\Debug\net8.0\SingletonLogger.AssemblyInfoInputs.cache
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\obj\Debug\net8.0\SingletonLogger.AssemblyInfo.cs
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\obj\Debug\net8.0\SingletonLogger.csproj.CoreCompileInputs.cache
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\obj\Debug\net8.0\SingletonLogger.sourcelink.json
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\bin\Debug\net8.0\SingletonLogger.exe
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\bin\Debug\net8.0\SingletonLogger.deps.json
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\bin\Debug\net8.0\SingletonLogger.runtimeconfig.json
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\bin\Debug\net8.0\SingletonLogger.dll
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\bin\Debug\net8.0\SingletonLogger.pdb
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\obj\Debug\net8.0\SingletonLogger.dll
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\obj\Debug\net8.0\refint\SingletonLogger.dll
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\obj\Debug\net8.0\SingletonLogger.pdb
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\obj\Debug\net8.0\SingletonLogger.genruntimeconfig.cache
+D:\nagavardhan\NagzCodz\Design-Patterns\Singleton\SingletonLogger\obj\Debug\net8.0\ref\SingletonLogger.dll
