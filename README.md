@@ -1,2 +1,3 @@
 # Design Patterns
-LLD Design Pattern examples
+Design Pattern Examples with explanation written in comments
+Refer this to understand Design Pattern Implementations
