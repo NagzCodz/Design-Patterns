@@ -1,0 +1,15 @@
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\obj\Debug\net8.0\NewsLetterService.GeneratedMSBuildEditorConfig.editorconfig
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\obj\Debug\net8.0\NewsLetterService.AssemblyInfoInputs.cache
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\obj\Debug\net8.0\NewsLetterService.AssemblyInfo.cs
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\obj\Debug\net8.0\NewsLetterService.csproj.CoreCompileInputs.cache
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\obj\Debug\net8.0\NewsLetterService.sourcelink.json
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\bin\Debug\net8.0\NewsLetterService.exe
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\bin\Debug\net8.0\NewsLetterService.deps.json
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\bin\Debug\net8.0\NewsLetterService.runtimeconfig.json
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\bin\Debug\net8.0\NewsLetterService.dll
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\bin\Debug\net8.0\NewsLetterService.pdb
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\obj\Debug\net8.0\NewsLetterService.dll
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\obj\Debug\net8.0\refint\NewsLetterService.dll
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\obj\Debug\net8.0\NewsLetterService.pdb
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\obj\Debug\net8.0\NewsLetterService.genruntimeconfig.cache
+D:\nagavardhan\NagzCodz\Design-Patterns\Observer\NewsLetterService\obj\Debug\net8.0\ref\NewsLetterService.dll
