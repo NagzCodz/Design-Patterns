@@ -1,0 +1,15 @@
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\bin\Debug\net8.0\StrategicTextFormatter.exe
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\bin\Debug\net8.0\StrategicTextFormatter.deps.json
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\bin\Debug\net8.0\StrategicTextFormatter.runtimeconfig.json
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\bin\Debug\net8.0\StrategicTextFormatter.dll
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\bin\Debug\net8.0\StrategicTextFormatter.pdb
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\obj\Debug\net8.0\StrategicTextFormatter.GeneratedMSBuildEditorConfig.editorconfig
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\obj\Debug\net8.0\StrategicTextFormatter.AssemblyInfoInputs.cache
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\obj\Debug\net8.0\StrategicTextFormatter.AssemblyInfo.cs
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\obj\Debug\net8.0\StrategicTextFormatter.csproj.CoreCompileInputs.cache
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\obj\Debug\net8.0\StrategicTextFormatter.sourcelink.json
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\obj\Debug\net8.0\StrategicTextFormatter.dll
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\obj\Debug\net8.0\refint\StrategicTextFormatter.dll
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\obj\Debug\net8.0\StrategicTextFormatter.pdb
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\obj\Debug\net8.0\StrategicTextFormatter.genruntimeconfig.cache
+D:\nagavardhan\NagzCodz_GitClonedRepos\Design-Patterns\Strategy\StrategicTextFormatter\obj\Debug\net8.0\ref\StrategicTextFormatter.dll
